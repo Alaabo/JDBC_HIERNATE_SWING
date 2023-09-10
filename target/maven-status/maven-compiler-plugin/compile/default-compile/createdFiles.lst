@@ -1,0 +1,10 @@
+UI\ui.class
+UI\ui$5.class
+UI\ui$6.class
+com\mycompany\mavenproject1\model\etudiant.class
+UI\ui$2.class
+com\mycompany\mavenproject1\util\HibernateUtil.class
+UI\ui$4.class
+com\mycompany\mavenproject1\dao\etudiantDao.class
+UI\ui$3.class
+UI\ui$1.class
